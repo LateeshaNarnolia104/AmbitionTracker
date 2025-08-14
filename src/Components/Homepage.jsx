@@ -5,7 +5,7 @@ function Home() {
   return (
     <div
       className="min-h-screen bg-[#051F45] bg-cover bg-center flex flex-col"
-      style={{ backgroundImage: "url('bgimageforbp.png')" }} 
+      style={{ backgroundImage: "url('/bgimageforbp.png')" }} 
     >
       
       <div className="flex-1 flex flex-col items-center justify-center px-4">

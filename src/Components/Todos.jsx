@@ -36,7 +36,7 @@ function Todos() {
 
   return (
     <div className="relative min-h-screen flex flex-col items-center pt-24 pb-8 bg-[#051F45] text-[#F2C4CD]"
-    style={{ backgroundImage: "url('bgforbp.png')" }} >
+    style={{ backgroundImage: "url('/bgforbp.png')" }} >
       <BackIcon />
       <Icons />
       <h1 className="text-4xl font-bold mb-4 text-[#051F45] drop-shadow-md">Todo List</h1>

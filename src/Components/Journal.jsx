@@ -24,7 +24,7 @@ function Journal() {
 
   return (
     <div className="relative min-h-screen flex flex-col items-center justify-start pt-24 pb-8 bg-[#051F45] text-[#F2C4CD]"
-     style={{ backgroundImage: "url('bgforbp.png')" }} >
+     style={{ backgroundImage: "url('/bgforbp.png')" }} >
       <BackIcon />
       <Icons />
 

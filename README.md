@@ -1,12 +1,25 @@
-# React + Vite
+# Ambition Tracker 📚
+FocusTime is a student-focused productivity app designed to enhance focus, organization, and academic success. It includes a Pomodoro timer for effective time management, a journaling tool for reflective note-taking, and a to-do list to track assignments and tasks. The app saves all data locally for persistence and uses intuitive icon-based navigation for streamlined user experience. 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+## Features
+Pomodoro Timer: Helps manage study sessions with preset timers and session history.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Journal: A simple, reflective journaling tool to organize thoughts and notes.
 
-## Expanding the ESLint configuration
+To-Do List: Track assignments and tasks with deadlines and completion toggles.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Persistent Storage: All data is saved locally to prevent loss on refresh or closing.
+
+## Technologies Used
+React
+
+Tailwind CSS (with custom color palette via inline classes)
+
+React Router
+
+LocalStorage for data persistence
+
+React Icons for UI elements
+
+
